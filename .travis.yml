@@ -1,5 +1,5 @@
 dist: xenial
-
+if: branch = master
 services:
   - postgresql
 addons:
